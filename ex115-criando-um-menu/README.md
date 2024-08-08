@@ -1,0 +1,1 @@
+Exercício Python 115a: Vamos criar um menu em Python, usando modularização. Crie um sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo de texto.O sistema vai ter duas opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.
